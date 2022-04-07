@@ -1,5 +1,11 @@
-.container{
-    display: flex; 
-    
-    align-items: center; 
+.header{
+    display: flex;
+    justify-content: space-between;
 }
+.navBar ul{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-around;
+}
+
